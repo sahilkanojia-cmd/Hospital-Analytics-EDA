@@ -1,0 +1,251 @@
+doctor_id,doctor_name,department_id,specialization,experience_years,consultation_fee,joining_date
+1,Dr. Sneha Sharma,9,Specialist,33,800.0,2021-11-01
+2,Dr. Arjun Singh,3,Resident,10,800.0,2012-12-08
+3,Dr. Neha Gupta,5,Consultant,29,500.0,2005-03-19
+4,Dr. Sneha Nair,3,,13,1000.0,2012-03-06
+5,Dr. Isha Verma,7,Senior Consultant,12,300.0,2016-07-29
+6,Dr. Suresh Iyer,5,Senior Consultant,31,2000.0,2006-08-24
+7,Dr. Priya Sharma,9,,2,300.0,2021-01-25
+8,Dr. Rahul Singh,7,Surgeon,35,1000.0,2007-12-02
+9,Dr. Neha Mehta,2,Specialist,23,2000.0,2010-11-07
+10,Dr. Divya Sharma,4,Surgeon,17,500.0,09-16-11
+11,Dr. Isha Singh,9,Resident,26,800.0,2011-06-02
+12,Dr. Isha Iyer,12,Resident,8,300.0,2010-02-07
+13,Dr. Neha Khan,14,Surgeon,29,1500.0,2008-08-11
+14,Dr. Suresh Patel,2,Resident,26,1500.0,2017-11-25
+15,Dr. Amit Kapoor,10,Surgeon,10,,2014-11-07
+16,Dr. Anjali Das,9,,26,500.0,2024-01-05
+17,Dr. Pooja Reddy,10,Surgeon,34,300.0,21/04/2015
+18,Dr. Arjun Gupta,5,Surgeon,7,500.0,2022-12-23
+19,Dr. Rohan Kapoor,2,Resident,4,300.0,2021-05-21
+20,Dr. Sanjay Verma,4,Resident,11,1000.0,2019-01-30
+21,Dr. Rahul Iyer,12,Senior Consultant,29,1000.0,2017-10-15
+22,Dr. Sneha Reddy,15,Senior Consultant,36,1500.0,31/12/2010
+23,Dr. Meera Joshi,12,Consultant,25,500.0,2007-09-20
+24,Dr. Arjun Kapoor,7,,21,2000.0,2012-06-05
+25,Dr. Priya Das,12,Surgeon,36,1500.0,2011-01-02
+26,Dr. Deepak Mehta,13,Resident,10,500.0,2008-06-02
+27,Dr. Sneha Bose,8,Senior Consultant,37,1500.0,2013-05-13
+28,Dr. Karan Verma,15,Senior Consultant,9,,04 Aug 2017
+29,Dr. Isha Patel,3,Consultant,24,800.0,2016-01-17
+30,Dr. Divya Bose,14,Consultant,35,,2010-06-21
+31,Dr. Meera Joshi,1,Surgeon,35,800.0,18/06/2018
+32,Dr. Rohan Das,4,Resident,36,800.0,2015-02-05
+33,Dr. Rahul Sharma,2,Consultant,18,300.0,2010-11-22
+34,Dr. Neha Kapoor,8,Senior Consultant,39,800.0,2016-01-02
+35,Dr. Kavya Verma,4,Resident,32,2000.0,2013-07-08
+36,Dr. Neha Malhotra,2,Resident,24,1000.0,2010-05-25
+37,Dr. Sneha Iyer,14,Senior Consultant,23,1000.0,2005-07-17
+38,Dr. Arjun Khan,6,Consultant,-3,300.0,2020-10-14
+39,Dr. Meera Gupta,6,Senior Consultant,37,800.0,2012-03-11
+40,Dr. Meera Reddy,10,Resident,12,800.0,2022-11-22
+41,Dr. Rohan Nair,4,Specialist,13,800.0,2008-04-17
+42,Dr. Arjun Das,6,Specialist,23,1500.0,2023-05-04
+43,Dr. Rahul Joshi,13,Surgeon,25,500.0,2020-03-30
+44,Dr. Anjali Mehta,15,,35,1500.0,21 Sep 2020
+45,Dr. Neha Gupta,2,Senior Consultant,30,500.0,2020-11-06
+46,Dr. Deepak Iyer,10,,17,800.0,2019-10-23
+47,Dr. Arjun Bose,12,Surgeon,20,800.0,2010-07-29
+48,Dr. Isha Singh,2,Surgeon,25,1500.0,2006-04-23
+49,Dr. Sanjay Malhotra,10,Resident,22,1500.0,2008-06-08
+50,Dr. Priya Singh,14,Senior Consultant,13,500.0,2007-07-12
+51,Dr. Priya Kapoor,4,Resident,19,1000.0,2006-02-24
+52,Dr. Sanjay Iyer,14,Surgeon,-1,,2011-01-14
+53,Dr. Arjun Verma,15,Senior Consultant,12,1500.0,2012-02-11
+54,Dr. Rohan Bose,15,Resident,19,2000.0,2008-01-26
+55,Dr. Suresh Bose,8,Resident,12,1500.0,2013-05-27
+56,Dr. Sanjay Singh,14,Surgeon,9,2000.0,2007-08-09
+57,Dr. Ritu Iyer,7,Senior Consultant,7,300.0,2011-05-26
+58,Dr. Deepak Gupta,12,Surgeon,28,1500.0,2019-09-18
+59,Dr. Arjun Gupta,9,Senior Consultant,14,300.0,2011-02-22
+60,Dr. Neha Das,14,Specialist,31,1000.0,2012-03-30
+61,Dr. Isha Mehta,8,Consultant,19,500.0,2010-02-01
+62,Dr. Arjun Das,5,Consultant,16,2000.0,2017-08-18
+63,Dr. Suresh Iyer,13,,5,500.0,2020-10-03
+64,Dr. Suresh Iyer,2,Surgeon,35,300.0,2010-02-09
+65,Dr. Meera Singh,15,Specialist,12,2000.0,2012-12-22
+66,Dr. Vikram Mehta,5,Senior Consultant,25,500.0,2019-05-05
+67,Dr. Ritu Verma,8,Resident,21,1500.0,2012-10-24
+68,Dr. Priya Malhotra,10,Senior Consultant,36,800.0,2021-07-04
+69,Dr. Sneha Gupta,9,Resident,23,300.0,2018-06-12
+70,Dr. Anjali Kapoor,12,,16,500.0,2022-06-12
+71,Dr. Pooja Joshi,12,Specialist,39,300.0,2021-06-02
+72,Dr. Rahul Iyer,12,,39,300.0,2022-05-31
+73,Dr. Karan Joshi,13,Surgeon,14,2000.0,2024-06-01
+74,Dr. Deepak Mehta,9,Senior Consultant,31,2000.0,11-11-21
+75,Dr. Arjun Mehta,13,Senior Consultant,5,800.0,2013-11-03
+76,Dr. Amit Nair,15,Resident,35,1500.0,2015-03-09
+77,Dr. Sneha Nair,13,Surgeon,120,300.0,2013-11-03
+78,Dr. Isha Kapoor,1,,29,500.0,2021-12-13
+79,Dr. Arjun Kapoor,9,Specialist,11,1000.0,30 Jun 2011
+80,Dr. Sanjay Verma,7,,18,300.0,01/12/2012
+81,Dr. Kavya Iyer,9,Surgeon,12,300.0,2015-04-15
+82,Dr. Anjali Khan,8,Surgeon,9,800.0,2016-07-27
+83,Dr. Amit Das,1,Consultant,10,1500.0,2005-04-05
+84,Dr. Arjun Mehta,12,Specialist,17,,2012-04-28
+85,Dr. Anjali Mehta,8,Senior Consultant,38,2000.0,2023-11-21
+86,Dr. Sneha Malhotra,8,Resident,7,2000.0,2010-05-10
+87,Dr. Kavya Malhotra,15,Senior Consultant,13,500.0,2007-03-05
+88,Dr. Manish Joshi,11,Specialist,9,1000.0,2010-01-09
+89,Dr. Rohan Gupta,3,Resident,27,2000.0,2010-10-18
+90,Dr. Meera Kapoor,1,Specialist,2,500.0,28 Oct 2020
+91,Dr. Anjali Mehta,8,Surgeon,5,1500.0,2016-03-30
+92,Dr. Manish Bose,3,Resident,29,500.0,2014-02-08
+93,Dr. Amit Joshi,3,Surgeon,37,2000.0,2021-04-28
+94,Dr. Sanjay Khan,1,Senior Consultant,38,800.0,2012-12-29
+95,Dr. Amit Verma,11,Senior Consultant,19,800.0,2012-02-11
+96,Dr. Meera Bose,5,Resident,8,800.0,2013-10-11
+97,Dr. Kavya Singh,10,Resident,1,2000.0,2018-03-01
+98,Dr. Priya Singh,7,Specialist,22,800.0,2021-11-19
+99,Dr. Suresh Verma,10,Specialist,17,1000.0,2007-03-26
+100,Dr. Rahul Das,9,Surgeon,7,1500.0,2005-12-12
+101,Dr. Ritu Malhotra,12,Resident,25,500.0,2011-06-08
+102,Dr. Rahul Kapoor,7,Senior Consultant,4,500.0,29 Dec 2005
+103,Dr. Isha Kapoor,9,Specialist,36,2000.0,10 Sep 2011
+104,Dr. Vikram Gupta,8,Specialist,6,800.0,2011-03-16
+105,Dr. Ritu Mehta,12,Senior Consultant,31,800.0,2010-12-29
+106,Dr. Anjali Patel,2,Specialist,19,300.0,2013-03-25
+107,Dr. Manish Malhotra,1,Surgeon,39,1500.0,2013-12-26
+108,Dr. Divya Iyer,7,Resident,27,1000.0,2007-09-12
+109,Dr. Rohan Bose,7,Senior Consultant,10,500.0,2009-06-28
+110,Dr. Isha Kapoor,14,,26,300.0,2007-04-08
+111,Dr. Rohan Das,8,Specialist,19,,2012-06-23
+112,Dr. Kavya Iyer,5,Specialist,39,2000.0,2014-09-02
+113,Dr. Meera Khan,3,Senior Consultant,3,500.0,2017-03-10
+114,Dr. Manish Khan,12,,13,2000.0,2019-11-27
+115,Dr. Sneha Singh,8,Consultant,28,1000.0,2013-01-14
+116,Dr. Neha Verma,6,Senior Consultant,20,300.0,2015-08-13
+117,Dr. Sanjay Sharma,11,Consultant,28,300.0,2021-04-26
+118,Dr. Suresh Mehta,3,Consultant,8,1500.0,2005-05-07
+119,Dr. Neha Joshi,1,Surgeon,39,1000.0,2013-09-13
+120,Dr. Neha Sharma,3,Consultant,1,300.0,2013-05-15
+121,Dr. Rahul Das,5,Consultant,3,1000.0,2006-08-27
+122,Dr. Priya Singh,15,Surgeon,13,500.0,2014-06-12
+123,Dr. Rahul Bose,14,Consultant,28,800.0,2021-06-30
+124,Dr. Priya Malhotra,3,,25,300.0,2018-12-28
+125,Dr. Sanjay Verma,1,Consultant,33,1500.0,2016-05-09
+126,Dr. Manish Singh,5,Senior Consultant,38,,2014-09-04
+127,Dr. Arjun Nair,10,Senior Consultant,6,1000.0,2014-03-22
+128,Dr. Ritu Singh,7,,32,2000.0,2014-03-23
+129,Dr. Isha Gupta,15,Surgeon,21,500.0,05-26-15
+130,Dr. Suresh Joshi,14,Specialist,16,300.0,2023-12-15
+131,Dr. Ritu Singh,7,Consultant,21,1000.0,2020-02-18
+132,Dr. Ritu Kapoor,11,Consultant,11,800.0,2009-11-28
+133,Dr. Pooja Singh,9,Surgeon,37,500.0,2012-11-01
+134,Dr. Sneha Verma,15,Consultant,36,300.0,2020-09-11
+135,Dr. Pooja Reddy,15,Senior Consultant,35,1500.0,2014-07-09
+136,Dr. Pooja Iyer,10,Specialist,19,2000.0,2014-05-11
+137,Dr. Deepak Malhotra,10,Resident,20,1000.0,07-04-09
+138,Dr. Priya Nair,12,Consultant,18,500.0,2022-12-21
+139,Dr. Sneha Sharma,13,Senior Consultant,14,500.0,2008-04-20
+140,Dr. Karan Das,3,Resident,15,800.0,2013-04-19
+141,Dr. Sanjay Kapoor,15,Specialist,31,800.0,2012-11-12
+142,Dr. Sneha Singh,7,Resident,1,1500.0,31/05/2013
+143,Dr. Rohan Singh,1,Senior Consultant,3,2000.0,2010-01-29
+144,Dr. Isha Khan,4,Resident,16,1500.0,2016-01-05
+145,Dr. Vikram Iyer,13,Surgeon,23,300.0,2017-10-07
+146,Dr. Anjali Patel,4,Resident,11,300.0,2022-11-02
+147,Dr. Deepak Singh,14,Consultant,12,1500.0,2018-10-11
+148,Dr. Rahul Khan,5,Consultant,10,2000.0,2021-07-06
+149,Dr. Isha Verma,7,Surgeon,32,,2012-06-01
+150,Dr. Priya Nair,7,Senior Consultant,16,2000.0,2014-08-04
+151,Dr. Isha Malhotra,13,Consultant,8,2000.0,2024-06-22
+152,Dr. Amit Verma,15,Specialist,38,1000.0,2008-08-25
+153,Dr. Neha Gupta,11,Consultant,12,2000.0,2005-07-21
+154,Dr. Pooja Khan,13,Consultant,24,800.0,2014-08-09
+155,Dr. Ritu Singh,4,Senior Consultant,28,2000.0,2022-09-05
+156,Dr. Karan Bose,13,,8,2000.0,2016-07-14
+157,Dr. Priya Gupta,7,Consultant,28,2000.0,2018-10-12
+158,Dr. Karan Sharma,11,Surgeon,36,300.0,2006-07-29
+159,Dr. Karan Patel,3,Resident,26,800.0,2022-06-28
+160,Dr. Deepak Patel,6,Specialist,8,800.0,2006-06-21
+161,Dr. Pooja Das,12,Senior Consultant,28,1500.0,2009-06-14
+162,Dr. Isha Nair,2,Specialist,28,1000.0,2010-10-24
+163,Dr. Ritu Gupta,10,Resident,37,2000.0,2006-01-21
+164,Dr. Rohan Patel,13,Resident,36,500.0,2013-12-26
+165,Dr. Rohan Sharma,14,Resident,27,1000.0,2006-04-20
+166,Dr. Suresh Das,9,Specialist,17,1000.0,2006-02-22
+167,Dr. Isha Sharma,5,Resident,9,800.0,2022-10-09
+168,Dr. Sanjay Sharma,6,Specialist,33,1000.0,2014-11-10
+169,Dr. Priya Joshi,12,Resident,20,2000.0,07-29-23
+170,Dr. Ritu Mehta,12,Surgeon,13,2000.0,2018-10-14
+171,Dr. Manish Gupta,12,,28,300.0,2007-08-13
+172,Dr. Priya Mehta,12,Specialist,29,2000.0,2018-08-12
+173,Dr. Rahul Malhotra,4,Consultant,13,2000.0,2018-04-21
+174,Dr. Anjali Verma,14,Resident,35,800.0,2019-07-05
+175,Dr. Divya Verma,14,Consultant,6,2000.0,2008-04-20
+176,Dr. Neha Iyer,11,Surgeon,18,300.0,2018-01-12
+177,Dr. Sneha Bose,10,Senior Consultant,5,500.0,2016-04-13
+178,Dr. Suresh Singh,7,Surgeon,25,800.0,2010-06-14
+179,Dr. Suresh Joshi,12,Resident,2,500.0,2019-07-06
+180,Dr. Priya Joshi,9,Consultant,10,800.0,2018-02-27
+181,Dr. Rahul Iyer,7,Consultant,30,1500.0,2014-10-13
+182,Dr. Suresh Joshi,14,Specialist,5,1000.0,2021-05-12
+183,Dr. Manish Reddy,1,Consultant,33,1500.0,2019-06-17
+184,Dr. Arjun Singh,1,Specialist,1,2000.0,04-22-22
+185,Dr. Sanjay Singh,9,Senior Consultant,18,500.0,2016-12-29
+186,Dr. Arjun Iyer,11,Resident,32,2000.0,2016-05-21
+187,Dr. Vikram Nair,14,Specialist,11,1000.0,12-17-18
+188,Dr. Kavya Khan,9,Senior Consultant,21,800.0,2018-01-10
+189,Dr. Sanjay Bose,4,Consultant,26,1000.0,06/06/2012
+190,Dr. Rahul Sharma,13,Consultant,25,300.0,13/01/2011
+191,Dr. Deepak Joshi,9,Senior Consultant,22,1000.0,2020-04-20
+192,Dr. Suresh Verma,3,Consultant,27,,2013-07-18
+193,Dr. Rahul Mehta,7,Senior Consultant,13,1000.0,2007-08-25
+194,Dr. Rohan Mehta,6,,33,300.0,2018-07-16
+195,Dr. Arjun Gupta,8,Specialist,34,500.0,2019-04-01
+196,Dr. Meera Bose,11,Senior Consultant,35,2000.0,26 May 2014
+197,Dr. Rahul Bose,9,Specialist,1,2000.0,2006-11-20
+198,Dr. Neha Reddy,14,Specialist,21,1500.0,2016-08-14
+199,Dr. Kavya Gupta,5,Specialist,6,2000.0,2015-02-19
+200,Dr. Deepak Malhotra,1,Surgeon,28,800.0,2005-12-08
+201,Dr. Isha Das,3,,17,1000.0,2023-02-15
+202,Dr. Kavya Joshi,10,Consultant,5,1500.0,2019-03-11
+203,Dr. Manish Sharma,12,Surgeon,31,800.0,2009-09-21
+204,Dr. Isha Patel,8,Specialist,99,800.0,2020-01-02
+205,Dr. Sneha Bose,15,Senior Consultant,38,300.0,2023-05-11
+206,Dr. Vikram Patel,11,Specialist,3,2000.0,2017-02-09
+207,Dr. Sneha Bose,6,Resident,23,500.0,2009-11-28
+208,Dr. Sneha Das,8,Specialist,37,500.0,2009-10-26
+209,Dr. Isha Gupta,9,Senior Consultant,37,1500.0,2013-10-18
+210,Dr. Arjun Patel,4,Resident,10,500.0,2007-09-17
+211,Dr. Divya Singh,1,Specialist,10,1000.0,2011-03-13
+212,Dr. Sanjay Singh,14,Resident,19,500.0,2011-10-19
+213,Dr. Arjun Mehta,1,Consultant,17,1500.0,2007-08-10
+214,Dr. Ritu Patel,10,Consultant,21,500.0,2006-12-24
+215,Dr. Priya Verma,4,Specialist,14,1000.0,2014-04-13
+216,Dr. Pooja Malhotra,12,Resident,9,300.0,2010-09-11
+217,Dr. Arjun Sharma,14,Senior Consultant,1,1500.0,2012-06-10
+218,Dr. Amit Reddy,7,Specialist,13,300.0,2011-05-22
+219,Dr. Vikram Nair,2,Consultant,4,300.0,2014-03-31
+220,Dr. Arjun Gupta,3,Consultant,1,300.0,2017-05-22
+221,Dr. Deepak Mehta,1,Specialist,32,800.0,2009-02-09
+222,Dr. Pooja Mehta,5,Resident,34,2000.0,2005-10-13
+223,Dr. Amit Verma,1,Consultant,28,800.0,28/07/2014
+224,Dr. Rahul Bose,8,Resident,31,2000.0,2010-08-28
+225,Dr. Vikram Mehta,1,Consultant,8,300.0,2007-02-08
+226,Dr. Priya Malhotra,11,Consultant,39,1500.0,06-09-23
+227,Dr. Meera Joshi,1,Surgeon,26,2000.0,2020-01-13
+228,Dr. Isha Gupta,2,,34,1000.0,16/05/2013
+229,Dr. Pooja Gupta,2,Senior Consultant,3,1000.0,2016-09-29
+230,Dr. Priya Patel,12,Specialist,150,500.0,2023-03-13
+231,Dr. Meera Bose,6,Specialist,1,2000.0,2018-12-02
+232,Dr. Priya Bose,7,Resident,5,1500.0,2019-04-30
+233,Dr. Meera Singh,5,Consultant,30,800.0,2010-12-02
+234,Dr. Neha Nair,1,Senior Consultant,30,300.0,2014-01-07
+235,Dr. Sneha Reddy,1,Resident,17,500.0,2020-11-15
+236,Dr. Isha Bose,3,Surgeon,23,1000.0,2007-08-05
+237,Dr. Pooja Joshi,14,Resident,15,800.0,2018-06-28
+238,Dr. Vikram Bose,2,Resident,37,800.0,2021-06-22
+239,Dr. Neha Malhotra,5,Consultant,21,300.0,2014-02-18
+240,Dr. Anjali Kapoor,12,Surgeon,14,2000.0,2024-05-09
+241,Dr. Anjali Bose,10,Resident,2,1000.0,2016-05-13
+242,Dr. Pooja Sharma,6,Senior Consultant,11,1500.0,2018-05-28
+243,Dr. Anjali Das,7,Senior Consultant,39,800.0,2018-05-06
+244,Dr. Sanjay Kapoor,4,Specialist,38,300.0,2009-01-21
+245,Dr. Pooja Kapoor,7,,34,1500.0,2010-03-17
+246,Dr. Neha Patel,11,Surgeon,38,2000.0,2022-04-07
+247,Dr. Anjali Kapoor,8,Specialist,34,1000.0,2014-06-14
+248,Dr. Sneha Iyer,11,Resident,18,2000.0,2016-02-17
+249,Dr. Priya Malhotra,1,Surgeon,30,800.0,2022-01-22
+250,Dr. Ritu Singh,15,Senior Consultant,15,,2005-02-24
